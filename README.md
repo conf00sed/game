@@ -1,6 +1,6 @@
 # Project Z
 
-Its a 2.5D game where the character start outside of nowhere and you need to kill zombies in order to win.
+Its a 2.5D game where the character starts outside of nowhere and you need to kill zombies in order to win.
 
 ##  How to install the game?
 
