@@ -17,7 +17,7 @@ If you don't have git installed on your device follow these steps below.
 4. You should see an exe file. Open it up and enjoy the game.
 
 ## How to play the game?
-Once you have installed it and got it running on your pc, you can `left click ` to shoot bullets and aim with your mouse. Just hover over the enemy and shoot.
+Once you have installed it and got it running on your pc, you can `left click` to shoot bullets and aim with your mouse. Just hover over the enemy and shoot.
 
 # Compatibility
 - Windows
